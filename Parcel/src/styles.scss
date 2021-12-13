@@ -1,0 +1,9 @@
+$primary-color: tomato;
+$max-width: 400px;
+
+.background {
+  background-color: $primary-color;
+}
+#imageWrapper img {
+  max-width: $max-width;
+}
